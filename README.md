@@ -6,9 +6,17 @@
 
 **Project type:** Academic team project — King Abdulaziz University, Department of Information Systems  
 **Portfolio focus:** Project coordination, requirements gathering and specification, system modeling, testing and documentation  
-**Status:** Completed academic project; this repository documents the report and prototype, not a maintained commercial product.
+**Status:** Completed academic project; the team-built website remains available at the project link below, as reported by the contributor.
 
-> This case study summarizes work documented in the team's final academic report. It does not claim that every proposed requirement was fully deployed or that the platform remains live.
+> This portfolio documents the team's academic project and a publicly shared website link. It does not claim that every proposed requirement was implemented or that the site is maintained as a commercial product.
+
+## Live Project
+
+The team's Sayaarati Review website is available at the following public project URL:
+
+🌐 **[Visit Sayaarati Review Website](https://sayaarati.info/)**
+
+The live website is a team deliverable; my individual contributions are described under [My Contribution](#my-contribution). Site features and availability may change independently of this academic project documentation.
 
 ## Problem & Objectives
 
@@ -62,7 +70,7 @@ The report’s implementation chapter discusses HTML, CSS, JavaScript, PHP, a re
 
 ### Interface gallery
 
-The academic report contains images of the home page, search, car listings, sign-up/login, comparison, ratings and reviews, and an administrative add-car form (report pp. 52–59 and 67–71). The portfolio screenshots will be added after image upload; no live site is claimed.
+The academic report contains images of the home page, search, car listings, sign-up/login, comparison, ratings and reviews, and an administrative add-car form (report pp. 52–59 and 67–71). The portfolio screenshots will be added after image upload; visit the [Live Project](#live-project) to view the team-built website.
 
 ## Testing
 
@@ -90,4 +98,4 @@ The website and overall report were team deliverables. This section describes my
 
 The original full academic report is **not included publicly** in this initial portfolio package because it names multiple contributors and contains student identifiers and appendix material. Publication of the report and any project source code requires an appropriate rights/privacy review and permission from collaborators where applicable.
 
-Images shown in this case study are excerpts from the team's academic report. No production database, personal survey responses or credentials are shared.
+Any diagram or interface images added to this case study are excerpts from the team's academic report. No production database, personal survey responses or credentials are shared.
