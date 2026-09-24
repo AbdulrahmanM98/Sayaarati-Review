@@ -43,7 +43,7 @@ The academic report includes:
 
 ### Diagram collection
 
-The graduation report includes multiple models, not just one diagram of each type. The source-page index is documented in [Diagram Inventory](docs/diagram-inventory.md). Images from the report will be displayed here once the approved image files have been uploaded.
+The graduation report contains several diagrams for each modeling category. See the [diagram inventory and original report page references](docs/diagram-inventory.md) and the [requirements/testing summary](docs/requirements-and-testing.md). Original diagram image files are not yet present in this repository; no broken image links are embedded here.
 
 | Model | Report pages | Focus |
 |---|---|---|
